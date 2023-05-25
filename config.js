@@ -18,9 +18,9 @@ import { fileURLToPath } from 'url'
 import moment from 'moment-timezone'
 
 /*============= WAKTU =============*/
-let wibh = moment.tz('Asia/Karachi').format('HH')
-    let wibm = moment.tz('Asia/Karachi').format('mm')
-    let wibs = moment.tz('Asia/Karachi').format('ss')
+let wibh = moment.tz('『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄').format('HH')
+    let wibm = moment.tz('『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄').format('mm')
+    let wibs = moment.tz('『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄').format('ss')
     let wktuwib = `${wibh} H ${wibm} M ${wibs} S`
     
     let d = new Date(new Date + 3600000)
@@ -48,15 +48,15 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '917356952058' //Nomor Danamu
+global.ppulsa = '917356952058' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '917356952058' //Nomor Bot
+global.nomorown = '917356952058' //Nomor Owner
+global.namebot = '*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈' //Nama Bot
+global.nameown = '『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,11 +65,11 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
+  ['923470027813', '*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈', true] //don't change this name and number
   ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
+global.mods = ['917356952058',''] //Don't replace this,If you want to add someone add any dev
 global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
@@ -105,14 +105,14 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
+global.wm = '「 ༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈' //Main Watermark
+global.wm2 = '༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈'
+global.wm3 = '༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈
 global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
-global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
+global.fig = `💗`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = 『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+91 73 569 52058'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -159,12 +159,12 @@ global.fpagedoc = '999'
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
 global.dmenut = 'ଓ═┅═━–〈' //top
-global.dmenub = '┊🇵🇰' //body
+global.dmenub = '┊💗' //body
 global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '┅━━━═┅═❏ *ღ 𝘿𝘼𝙎𝙃𝘽𝙊𝘼𝙍𝘿 ღ* ❏═┅═━━━┅'
+global.dashmenu = '┅━━━═┅═❏ *ღ 『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄ ღ* ❏═┅═━━━┅'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊☯︎'                            //body
@@ -180,10 +180,10 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
-global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.stickpack = '*༒︎⃝̈́͡ꪶ͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈'
+global.stickauth = `「 『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄ 」`
+global.packname = '🇲🇾⃞⍣𠟈ᴀʙʜɪ⍣𝐒ᴇʀ͎𠟈'
+global.packname2 = '『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄'
 
 global.multiplier = 38 // The higher, The harder levelup
 
