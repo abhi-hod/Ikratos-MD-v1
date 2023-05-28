@@ -1,20 +1,20 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn }) => {
   let caption = `
-╭───[Ikratos-MD-v1]───╮
+╭───[ABHI-MD-v1]───╮
 │╭────────────────────
 ┴│👋 Hey there, ${conn.getName(m.sender)}!
-⬡│🤖 I'm Ikratos-MD-v1\n⬡│ I'm up and running! 🚀
+⬡│🤖 I'm ABHI-MD-v1\n⬡│ I'm up and running! 🚀
 │╰────────────────────
 ┠───[ BOT INFO ]────╮
 │╭────────────────────
-┴│ Ikratos-MD-v1
+┴│ ABHI-MD-v1
 ⬡│💻 A WhatsApp bot created by:
-⬡│👨‍💻 Ahmad Ali 🇵🇰
+⬡│👨‍💻 『♡ɪᴛⷨᴢⷷꪻ♴͢𝐀ʙʜɪ⋆͢𝐒ᴇ͛ʀ͎𠟈  ᭄
 ⬡│📞 For any inquiries, contact:
-⬡│📱 wa.me/923470027813
+⬡│📱 wa.me/917356952058
 ⬡│🙅‍♂️ Don't call the owner or you\'ll be
-⬡│ ignored or blocked! 😬
+⬡│ ignored or blocked! 😌
 │╰────────────────────
 ┠───[ HOW TO USE ]────⋆
 ┴│💡 Some commands you can use:
@@ -24,7 +24,7 @@ let handler = async (m, { conn }) => {
 ┬│🔸 .translate \n⬡│- Translates text to other lang
 │╰──────────────
 ╰────────═┅═───────
-*Thank you for choosing Ikratos-MD-v1! 🌟✨*
+*Thank you for choosing ABHI-MD-v1! 🌟✨*
 `.trim()
   m.reply(caption)
 }
