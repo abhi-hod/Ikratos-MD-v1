@@ -4,13 +4,15 @@
 </p>
 
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">ABHI SAR-v1</h1>
+
+
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=ABHI +BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="ᴀʙʜɪ ꜱᴀʀ" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
